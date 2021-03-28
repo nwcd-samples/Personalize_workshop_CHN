@@ -45,7 +45,7 @@ Amazon Personalize是一种能让你快速有效地构建和扩展推荐或者�
 
 如上所述，第一步要做的是部署一个CloudFormation模板，通过它执行大部分初始化设置的工作。打开另一个浏览器窗口或选项卡，在上面登录到你的亚马逊云科技帐户。完成后，在新选项卡中打开下面的链接，开始通过CloudFormation部署所需项目的过程。
 
-[![Launch Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=PersonalizePOC&templateURL=https://sagemaker-sample-dataset-bjs.s3.cn-north-1.amazonaws.com.cn/poc-in-a-box/PersonalizePOC.yaml)
+[![Launch Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.amazonaws.cn/cloudformation/home?region=cn-north-1#/stacks/new?stackName=PersonalizePOC&templateURL=https://sagemaker-sample-dataset-bjs.s3.cn-north-1.amazonaws.com.cn/poc-in-a-box/PersonalizePOC.yaml)
 
 如果对部署CloudFormation stack有任何疑问，请按照下面的屏幕截图进行操作。
 
